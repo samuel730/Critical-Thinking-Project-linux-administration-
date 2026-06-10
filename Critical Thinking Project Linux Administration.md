@@ -89,7 +89,7 @@ uname -a
 
 ### Screenshot
 
-Insert screenshot below.
+<img width="1238" height="118" alt="image" src="https://github.com/user-attachments/assets/1ed3e3ba-11fd-4f66-bbe2-3ba241fbd363" />
 
 **Figure 1: Linux Operating System Verification**
 
@@ -167,6 +167,10 @@ pwd
 ```
 
 ### Screenshot
+
+<img width="1264" height="1432" alt="image" src="https://github.com/user-attachments/assets/dec08831-dc24-466e-bcd2-5567102c98c2" />
+
+<img width="1224" height="258" alt="image" src="https://github.com/user-attachments/assets/d0564a65-2294-4fce-9c37-e8beca74ad6a" />
 
 **Figure 3: Navigating Directories**
 
@@ -273,6 +277,10 @@ ls
 
 ### Screenshot
 
+<img width="792" height="160" alt="image" src="https://github.com/user-attachments/assets/fbee5e1b-74df-49d1-af32-3aef182c6c49" />
+
+<img width="1220" height="302" alt="image" src="https://github.com/user-attachments/assets/e228e409-7706-4b10-9962-0436fdd8f6eb" />
+
 **Figure 6: Removing a File**
 
 ---
@@ -323,6 +331,8 @@ ls -l securefile.txt
 
 ### Screenshot
 
+<img width="1214" height="740" alt="image" src="https://github.com/user-attachments/assets/0772714c-18e4-4ee2-9464-9805fa9466de" />
+
 **Figure 8: Test File Creation**
 
 ---
@@ -357,6 +367,8 @@ Expected output:
 
 ### Screenshot
 
+<img width="1130" height="126" alt="image" src="https://github.com/user-attachments/assets/ab6af857-4f9f-4011-9fba-2f0f6de68035" />
+
 **Figure 9: File Permission Configuration**
 
 ---
@@ -382,6 +394,8 @@ Expected output:
 ```
 
 ### Screenshot
+
+<img width="1232" height="298" alt="image" src="https://github.com/user-attachments/assets/6a5df671-02dc-4af1-9a4f-673181cfdc82" />
 
 **Figure 10: File Ownership Verification**
 
